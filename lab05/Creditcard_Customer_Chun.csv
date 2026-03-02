@@ -1,0 +1,201 @@
+RowId,CustomerId,CustomerName,CreditScore,Geography,Income_Category,Gender,DateOfBirth,Marital_Status,Balance,Card_Category,EstimatedSalary,ServicesUsed,Exited
+1,15634602,Laura Gomez,619,France,$60K - $80K,Female,1/1/1957,Married,0,Blue,101348.88,"OnlineBanking, MobileApp, TravelBenefits",YES
+2,15647311,Park Min Woo,608,Spain,Less than $40K,M,1/1/1954,Single,83807.86,Blue,112542.58,TravelBenefits,NO
+3,15619304,Michael Chen,502,France,$80K - $120K,Male,1/1/1965,Married,159660.8,Blue,113931.57,"OnlineBanking, MobileApp, Rewards",YES
+4,15701354,Sofia Rossi,699,France,Less than $40K,F,1/1/1984,Unknown,0,Blue,93826.63,OnlineBanking,NO
+5,15737888,Rachel Sanders,850,Spain,$60K - $80K,Male,1/1/1981,Married,125510.82,Blue,79084.1,Rewards,NO
+6,15574012,Kenji Nakamura,645,Spain,$40K - $60K,Male,1/1/1967,Married,113755.78,Blue,149756.71,TravelBenefits,YES
+7,15592531,Emily Watson,822,France,$120K +,Male,1/1/1971,Married,0,Gold,10062.8,"OnlineBanking, MobileApp, Insurance",NO
+8,15656148,David Lee,376,Germany,$60K - $80K,Female,1/1/1985,Unknown,115046.74,Silver,119346.88,MobileApp,YES
+9,15792365,Ana Rodriguez,501,France,$60K - $80K,Male,1/1/1974,Single,142051.07,Blue,74940.5,Insurance,NO
+10,15592389,Tom Wilson,684,France,$80K - $120K,Male,1/1/1950,Single,134603.88,Blue,71725.73,"Cashback, Rewards",NO
+11,15767821,Olivia Green,528,France,$120K +,Male,1/1/1983,Unknown,102016.72,Blue,80181.12,"MobileApp, Insurance, Rewards",NO
+12,15737173,James Chen,497,Spain,$40K - $60K,Male,1/1/1976,Married,0,Blue,76390.01,"TravelBenefits, Rewards",NO
+13,15632264,Lila Patel,476,France,$80K - $120K,Female,1/1/1959,Single,0,Blue,26260.98,"Rewards, OnlineBanking",NO
+14,15691483,Marco Rossi,549,France,$60K - $80K,Female,1/1/1952,Unknown,0,Blue,190857.79,"OnlineBanking, Rewards, Insurance",NO
+15,15600882,Sarah Brown,635,Spain,Less than $40K,Female,1/1/1987,Married,0,Blue,65951.65,"Insurance, Rewards",NO
+16,15643966,,616,Germany,$80K - $120K,Male,1/1/1946,Unknown,143129.41,Blue,64327.26,Cashback,NO
+17,15737452,Sarah Lee,653,Germany,$80K - $120K,Male,1/1/1980,Single,132602.88,Blue,5097.67,"MobileApp, Rewards",YES
+18,15788218,Alex Kim,549,Spain,$80K - $120K,Female,1/1/1946,Married,0,Blue,14406.41,MobileApp,NO
+19,15661507,Maria Hernandez,587,Spain,$40K - $60K,Male,1/1/1949,Married,0,Blue,158684.81,TravelBenefits,NO
+20,15568982,John Smith,726,France,Unknown,Female,1/1/1985,Married,0,Blue,54724.03,"Cashback, MobileApp, Insurance",NO
+21,15577657,Mark Johnson,732,France,$60K - $80K,Male,1/1/1982,Divorced,0,Blue,170886.17,"TravelBenefits, Insurance, Rewards",NO
+22,15597945,Amanda Chen,636,Spain,Less than $40K,Female,1/1/1979,Married,0,Blue,138555.46,"Cashback, TravelBenefits",NO
+23,15699309,David Lee,510,Spain,$40K - $60K,F,1/1/1949,Married,0,Blue,118913.53,"Cashback, MobileApp, Insurance",YES
+24,15725737,Nana Kwon,669,France,Less than $40K,Male,1/1/1954,Single,0,Blue,8487.75,"Cashback, TravelBenefits, Rewards",NO
+25,15625047,Tom Hanks,846,France,$80K - $120K,Female,1/1/1951,Married,0,Blue,187616.16,"Insurance, MobileApp",NO
+26,15738191,Emma Watson,577,France,Less than $40K,Male,1/1/1969,Single,0,Blue,124508.29,"OnlineBanking, MobileApp",NO
+27,15736816,James Kim,756,Germany,$40K - $60K,Male,1/1/1976,Unknown,136815.64,Blue,170041.95,"Rewards, Insurance, MobileApp",NO
+28,15700772,John Smith,571,France,$60K - $80K,Male,1/1/1986,Married,0,Blue,38433.35,"TravelBenefits, MobileApp, Cashback",NO
+29,15728693,Sarah Lee,574,Germany,Unknown,Female,1/1/1989,Single,141349.43,Blue,100187.43,"OnlineBanking, Insurance, Cashback",NO
+30,15656300,Maria Garcia,411,France,$40K - $60K,Male,1/1/1965,Married,59697.17,Blue,53483.21,Cashback,NO
+31,15589475,David Lee,591,Spain,$80K - $120K,F,1/1/1989,Married,0,Blue,140469.38,"Insurance, OnlineBanking",YES
+32,15706552,Emily Davis,533,France,$60K - $80K,Male,1/1/1963,Married,85311.7,Blue,156731.91,MobileApp,NO
+33,15750181,James Wilson,553,Germany,$60K - $80K,Male,1/1/1970,Married,110112.54,Blue,81898.81,"MobileApp, Rewards",NO
+34,15659428,Fatima Ahmed,520,Spain,Less than $40K,Female,1/1/1952,Married,0,Blue,34410.55,"Insurance, Cashback, MobileApp",NO
+35,15732963,Liam Nguyen,722,Spain,$80K - $120K,Female,1/1/1946,Married,0,Blue,142033.07,Insurance,NO
+36,15794171,Giulia Rossi,475,France,Less than $40K,Female,1/1/1951,Single,134264.04,Blue,27822.99,"Rewards, Insurance",YES
+37,15788448,Putra Wijaya,490,Spain,Less than $40K,Male,1/1/1970,Married,145260.23,Blue,114066.77,"OnlineBanking, Insurance",NO
+38,15729599,Kim Min-ji,804,Spain,Less than $40K,Female,1/1/1976,Married,76548.6,Gold,98453.45,"MobileApp, Rewards, Cashback",NO
+39,15717426,John Smith,850,France,$40K - $60K,Male,1/1/1973,Unknown,0,Blue,40812.9,Rewards,NO
+40,15585768,Emily Johnson,582,Germany,Unknown,Female,1/1/1943,Married,70349.48,Blue,178074.04,Insurance,NO
+41,15619360,David Lee,472,Spain,$80K - $120K,Male,1/1/1980,Single,0,Blue,70154.22,OnlineBanking,NO
+42,15738148,Sarah Brown,465,France,$40K - $60K,Female,1/1/1985,Married,122522.32,Blue,181297.65,"MobileApp, OnlineBanking, Insurance",YES
+43,15687946,Michael Wong,556,France,$40K - $60K,Female,1/1/1957,Single,117419.35,Silver,94153.83,"OnlineBanking, Rewards, MobileApp",NO
+44,15755196,Jessica Chen,834,France,$60K - $80K,F,1/1/1959,Married,131394.56,Blue,194365.76,"Cashback, MobileApp",YES
+45,15684171,Ken Tanaka,660,Spain,Unknown,M,1/1/1975,Single,155931.11,Blue,158338.39,OnlineBanking,NO
+46,15754849,Maria Garcia,776,Germany,$80K - $120K,F,1/1/1976,Single,109421.13,Blue,126517.46,"OnlineBanking, TravelBenefits, Cashback",NO
+47,15602280,Rodrigo Oliveira,829,Germany,$60K - $80K,Female,1/1/1996,Married,112045.67,Blue,119708.21,"TravelBenefits, MobileApp, Rewards",YES
+48,15771573,Olivia Kim,637,Germany,$40K - $60K,Female,1/1/1968,Married,137843.8,Blue,117622.8,TravelBenefits,YES
+49,15766205,Robert Mueller,550,Germany,$80K - $120K,Male,1/1/1951,Married,103391.38,Blue,90878.13,"OnlineBanking, Insurance, Cashback",NO
+50,15771873,John Smith,776,Germany,$80K - $120K,Female,1/1/1954,Single,103769.22,Blue,194099.12,"Rewards, MobileApp",NO
+51,15616550,Sarah Lee,698,Germany,Less than $40K,F,1/1/1957,Married,116363.37,Blue,198059.16,Rewards,NO
+52,15768193,Michael Wong,585,Germany,Less than $40K,Male,1/1/1964,Married,146050.97,Blue,86424.57,"Insurance, MobileApp, Cashback",NO
+53,15683553,Lisa Chen,788,France,Less than $40K,Female,1/1/1977,Married,0,Blue,116978.19,"MobileApp, Insurance, Rewards",NO
+54,15702298,David Kim,655,Germany,$120K +,Male,1/1/1977,Married,125561.97,Blue,164040.94,"Insurance, OnlineBanking",YES
+55,15569590,Emily Wong,601,Germany,$120K +,F,1/1/1978,Married,98495.72,Blue,40014.76,"TravelBenefits, Rewards, Cashback",YES
+56,15760861,Mark Tan,619,France,Less than $40K,Male,1/1/1955,Unknown,125211.92,Blue,113410.49,"MobileApp, Insurance",NO
+57,15630053,Emma Lee,656,France,Less than $40K,Male,1/1/1966,Single,127864.4,Blue,87107.57,Rewards,NO
+58,15647091,George Chen,725,Germany,$40K - $60K,Male,1/1/1988,Married,75888.2,Blue,45613.75,"TravelBenefits, MobileApp, Insurance",NO
+59,15623944,Sophia Kim,511,Spain,Unknown,Female,1/1/1982,Married,0,Blue,1643.11,"OnlineBanking, Cashback, MobileApp",YES
+60,15804771,Alex Ng,614,France,$60K - $80K,Male,1/1/1968,Single,40685.92,Blue,46775.28,"TravelBenefits, Cashback, Insurance",NO
+61,15651280,Alice Smith,742,Germany,$80K - $120K,Male,1/1/1982,Married,136857,Blue,84509.57,"Rewards, MobileApp, TravelBenefits",NO
+62,15773469,Bob Johnson,687,Germany,$60K - $80K,Female,1/1/1975,Married,152328.88,Silver,126494.82,"Insurance, MobileApp, OnlineBanking",NO
+63,15702014,Cindy Chen,555,Spain,$60K - $80K,Male,1/1/1952,Divorced,56084.69,Blue,178798.13,Rewards,NO
+64,15751208,David Lee,684,Spain,$120K +,Male,1/1/1951,Single,78707.16,Blue,99398.36,MobileApp,NO
+65,15592461,Emily Kim,603,Germany,$120K +,Male,1/1/1948,Single,109166.37,Blue,92840.67,TravelBenefits,NO
+66,15789484,Frank Li,751,Germany,$80K - $120K,Female,1/1/1971,Single,169831.46,Silver,27758.36,MobileApp,NO
+67,15696061,Gina Lee,581,Germany,$60K - $80K,Female,1/1/1967,Married,101633.04,Blue,110431.51,"Insurance, Cashback, Rewards",NO
+68,15641582,Henry Kim,735,Germany,Less than $40K,Male,1/1/1979,Single,123180.01,Blue,196673.28,"OnlineBanking, Insurance",NO
+69,15638424,Isabella Chen,661,Germany,$60K - $80K,Female,1/1/1958,Married,150725.53,Blue,113656.85,"OnlineBanking, Insurance, Cashback",NO
+70,15755648,Jack Smith,675,France,$80K - $120K,Female,1/1/1970,Married,98373.26,Blue,18203,Insurance,NO
+71,15703793,Katie Johnson,738,Germany,$120K +,Male,1/1/1954,Single,133745.44,Blue,28373.86,"Cashback, OnlineBanking, TravelBenefits",YES
+72,15620344,,813,France,Less than $40K,Male,1/1/1973,Married,0,Blue,33953.87,"Rewards, TravelBenefits",NO
+73,15812518,John Doe,657,Spain,$60K - $80K,Female,1/1/1959,Unknown,163607.18,Blue,44203.55,Rewards,NO
+74,15779052,Jane Smith,604,Germany,$80K - $120K,Female,1/1/1975,Married,157780.84,Blue,58426.81,"MobileApp, OnlineBanking",NO
+75,15770811,Michael Johnson,519,France,$60K - $80K,Male,1/1/1952,Single,0,Blue,145562.4,"Insurance, Cashback",NO
+76,15780961,Sarah Lee,735,France,$80K - $120K,Female,1/1/1977,Single,178718.19,Blue,22388,"Rewards, OnlineBanking",NO
+77,15614049,David Kim,664,France,Less than $40K,Male,1/1/1972,Single,0,Blue,139161.64,"MobileApp, Insurance",NO
+78,15662085,Emily Davis,678,France,Less than $40K,Female,1/1/1976,Single,0,Blue,148210.64,MobileApp,NO
+79,15575185,Jose Perez,757,Spain,$60K - $80K,Male,1/1/1976,Divorced,77253.22,Blue,194239.63,"TravelBenefits, OnlineBanking",NO
+80,15803136,Emma Wilson,416,Germany,$80K - $120K,Female,1/1/1965,Married,122189.66,Blue,98301.61,"OnlineBanking, Rewards, TravelBenefits",NO
+81,15706021,Ryan Chen,665,France,$60K - $80K,Female,1/1/1985,Married,96645.54,Blue,171413.66,"Insurance, TravelBenefits, MobileApp",NO
+82,15663706,Sofia Rodriguez,777,France,$120K +,Female,1/1/1969,Unknown,0,Blue,136458.19,"Rewards, Cashback",YES
+83,15641732,William Brown,543,France,$40K - $60K,Female,1/1/1973,Married,0,Blue,26019.59,"Rewards, MobileApp, Insurance",NO
+84,15701164,Tracey Gibson,506,France,Unknown,Female,1/1/1963,Married,90307.62,Blue,159235.29,"TravelBenefits, Rewards",NO
+85,15738751,Marissa Rhodes,493,France,$80K - $120K,Female,1/1/1987,Divorced,0,Blue,1907.66,MobileApp,NO
+86,15805254,Tracy Davis,652,Spain,$60K - $80K,Female,1/1/1960,Married,0,Blue,114675.75,"OnlineBanking, MobileApp, Cashback",NO
+87,15762418,Taylor White,750,Spain,$120K +,Male,1/1/1970,Single,121681.82,Blue,128643.35,"Cashback, TravelBenefits",YES
+88,15625759,Stephanie Martinez,729,France,Less than $40K,Male,1/1/1957,Single,0,Blue,151869.35,"TravelBenefits, MobileApp",NO
+89,15622897,John Ortega,646,France,$60K - $80K,Female,1/1/1973,Single,0,Blue,93251.42,"Insurance, Rewards",YES
+90,15767954,Shaun White,635,Germany,$120K +,Female,1/1/1967,Married,81623.67,Blue,156791.36,Rewards,NO
+91,15757535,Charles Anderson,647,Spain,Less than $40K,Female,1/1/1957,Single,0,Blue,174205.22,"Rewards, Cashback, OnlineBanking",YES
+92,15731511,Mrs. Heather Hall,808,France,$80K - $120K,Male,1/1/1957,Single,118626.55,Blue,147132.46,"OnlineBanking, TravelBenefits",NO
+93,15809248,Rhonda Martin,524,France,$40K - $60K,Female,1/1/1973,Single,0,Blue,109614.57,OnlineBanking,NO
+94,15640635,Elizabeth Butler,769,France,$80K - $120K,Male,1/1/1972,Single,0,Blue,172290.61,Insurance,NO
+95,15676966,Kendra Peters,730,Spain,Unknown,Male,1/1/1970,Married,0,Blue,85982.47,MobileApp,NO
+96,15699461,Olivia Cruz,515,Spain,Less than $40K,Male,1/1/1983,Married,176273.95,Blue,121277.78,"Rewards, Insurance, MobileApp",NO
+97,15738721,Veronica Bryant DDS,773,Spain,$40K - $60K,Male,1/1/1960,Married,102827.44,Blue,64595.25,OnlineBanking,NO
+98,15693683,Jeffrey Smith,814,Germany,$40K - $60K,Male,1/1/1972,Married,97086.4,Blue,197276.13,Insurance,NO
+99,15604348,Mark Ross,710,Spain,$120K +,Male,1/1/1951,Married,0,Blue,99645.04,"OnlineBanking, Rewards",NO
+100,15633059,Christina Newman,413,France,$80K - $120K,Male,1/1/1957,Married,0,Blue,6534.18,"Cashback, Insurance",NO
+101,15808582,Megan Dixon,665,France,Unknown,Female,1/1/1954,Single,0,Blue,161848.03,"MobileApp, TravelBenefits",NO
+102,15743192,Brian Lopez,623,France,Unknown,Female,1/1/1965,Married,0,Silver,167162.43,Insurance,NO
+103,15580146,Frank Schmidt,738,France,$120K +,Male,1/1/1984,Married,82674.15,Blue,41970.72,"Insurance, TravelBenefits, MobileApp",NO
+104,15776605,Micheal Wheeler,528,Spain,Less than $40K,Male,1/1/1981,Single,0,Blue,60536.56,"MobileApp, Rewards, OnlineBanking",NO
+105,15804919,Matthew Evans,670,Spain,$60K - $80K,Female,1/1/1967,Unknown,0,Blue,177655.68,Insurance,YES
+106,15613854,Katherine Jimenez,622,Spain,Less than $40K,Female,1/1/1971,Married,107073.27,Blue,30984.59,Rewards,YES
+107,15599195,Michael Schmidt,582,Germany,$120K +,Male,1/1/1985,Single,88938.62,Blue,10054.53,MobileApp,NO
+108,15812878,James Mack,785,Germany,$60K - $80K,Female,1/1/1974,Married,99806.85,Blue,36976.52,"TravelBenefits, Insurance, MobileApp",NO
+109,15602312,Marcus Price,605,Spain,Less than $40K,Male,1/1/1950,Married,150092.8,Blue,71862.79,"Cashback, TravelBenefits, Rewards",NO
+110,15744689,Gregg Perez,479,Germany,$120K +,Male,1/1/1983,Divorced,92833.89,Blue,99449.86,MobileApp,YES
+111,15803526,Corey Moyer,685,Germany,$60K - $80K,Male,1/1/1976,Married,90536.81,Blue,63082.88,Rewards,NO
+112,15665790,Eric Morrison,538,Germany,$60K - $80K,Male,1/1/1959,Married,108055.1,Blue,27231.26,"TravelBenefits, OnlineBanking",NO
+113,15715951,Paul Peterson,562,France,$60K - $80K,Male,1/1/1952,Divorced,100238.35,Blue,86797.41,"Cashback, Insurance, OnlineBanking",NO
+114,15591100,Hayley Hoffman,675,Spain,Less than $40K,Male,1/1/1987,Married,106190.55,Blue,22994.32,"Rewards, TravelBenefits",NO
+115,15609618,Mary Gilmore,721,Germany,$80K - $120K,Male,1/1/1946,Single,154475.54,Blue,101300.94,"Rewards, Cashback",YES
+116,15675522,Jasmine Anderson,628,Germany,$80K - $120K,Female,1/1/1980,Single,132351.29,Blue,74169.13,"Rewards, TravelBenefits",NO
+117,15705512,George Elliott,668,Germany,$80K - $120K,Female,1/1/1946,Unknown,167864.4,Blue,115638.29,"Cashback, Rewards, TravelBenefits",NO
+118,15698028,Shane Campbell,506,France,$80K - $120K,Female,1/1/1949,Single,0,Blue,31766.3,"TravelBenefits, Rewards, MobileApp",NO
+119,15661670,Brian Wilkins,524,Germany,$60K - $80K,Female,1/1/1985,Married,107818.63,Blue,199725.39,"TravelBenefits, OnlineBanking, MobileApp",YES
+120,15600781,Kathryn Malone,699,Germany,Less than $40K,Male,1/1/1982,Married,185173.81,Blue,120834.48,"OnlineBanking, Insurance, Cashback",NO
+121,15682472,Jesse Smith,828,France,$120K +,Male,1/1/1979,Single,129433.34,Blue,38131.77,"OnlineBanking, Rewards, Cashback",NO
+122,15580203,Penny Wood,674,Spain,Less than $40K,Male,1/1/1949,Married,120193.42,Blue,100130.95,Cashback,NO
+123,15690673,Marisa Weaver,656,France,$80K - $120K,Female,1/1/1954,Married,0,Blue,141069.88,"Rewards, MobileApp",NO
+124,15760085,Sophia Giles,684,Germany,$40K - $60K,Female,1/1/1951,Single,126384.42,Blue,198129.36,OnlineBanking,NO
+125,15779659,Richard Brown,625,France,$120K +,Female,1/1/1969,Single,0,Silver,183646.41,Cashback,NO
+126,15627360,Adam Odonnell,432,France,$60K - $80K,Male,1/1/1976,Single,152603.45,Blue,110265.24,"TravelBenefits, MobileApp",YES
+127,15671137,Mary Higgins,549,France,$120K +,Female,1/1/1986,Single,0,Blue,8636.05,"TravelBenefits, Insurance, MobileApp",YES
+128,15782688,Linda May,625,Germany,$80K - $120K,Male,1/1/1989,Married,148507.24,Blue,46824.08,Cashback,YES
+129,15575492,Matthew Walker,828,France,$40K - $60K,Female,1/1/1965,Single,0,Blue,171378.77,"TravelBenefits, Insurance, MobileApp",NO
+130,15591607,Dana Weber,770,France,Less than $40K,Male,1/1/1989,Unknown,101827.07,Silver,167256.35,"Insurance, Rewards",NO
+131,15740404,Darrell Johnson,758,France,Less than $40K,Female,1/1/1963,Married,0,Blue,124226.16,"Insurance, Rewards",NO
+132,15718369,Barbara Ford,795,Germany,$40K - $60K,Female,1/1/1970,Married,130862.43,Blue,114935.21,"MobileApp, Rewards, Cashback",NO
+133,15677871,Maria Castillo,687,France,$80K - $120K,Male,1/1/1952,Married,122570.87,Blue,35608.88,Rewards,NO
+134,15642004,Edward Hood,686,France,$80K - $120K,Male,1/1/1946,Married,0,Blue,16459.37,Insurance,NO
+135,15712543,Jeffrey Smith,789,Germany,Less than $40K,Male,1/1/1951,Single,124828.46,Blue,124411.08,OnlineBanking,NO
+136,15584518,Hayley Hoffman,589,Germany,$40K - $60K,Female,1/1/1970,Single,144895.05,Blue,34941.23,"Cashback, MobileApp, OnlineBanking",NO
+137,15802381,Thomas Crosby,461,Germany,$60K - $80K,Female,1/1/1976,Divorced,63663.93,Blue,167784.28,Cashback,NO
+138,15610156,Brandon Reeves,637,France,$60K - $80K,Male,1/1/1973,Divorced,133463.1,Blue,93165.34,"MobileApp, Cashback, TravelBenefits",NO
+139,15594408,Maria Castillo,584,Spain,Unknown,Female,1/1/1943,Married,213146.2,Blue,75161.25,TravelBenefits,YES
+140,15640905,Carol Jones,579,Spain,Less than $40K,Female,1/1/1980,Single,129490.36,Blue,8590.83,MobileApp,YES
+141,15698932,Robert Thompson,756,Germany,Less than $40K,Male,1/1/1985,Married,137452.09,Blue,189543.9,MobileApp,NO
+142,15724944,Andrew Fitzpatrick,663,France,$120K +,Male,1/1/1957,Single,0,Blue,180427.24,Cashback,NO
+143,15628145,Ashley Pittman,682,France,$80K - $120K,Female,1/1/1959,Married,125851.93,Blue,193318.33,Cashback,NO
+144,15713483,Richard Le,793,Spain,Less than $40K,Male,1/1/1975,Single,0,Blue,159123.82,TravelBenefits,YES
+145,15612350,Selena Barker,691,France,$60K - $80K,Female,1/1/1976,Single,40915.55,Blue,126213.84,"OnlineBanking, Rewards",YES
+146,15800703,Harold Hernandez,485,Spain,Less than $40K,Female,1/1/1996,Married,113157.22,Blue,54141.5,"Insurance, Cashback",NO
+147,15705707,Margaret Chang,635,Spain,Less than $40K,Female,1/1/1968,Single,138296.94,Blue,141075.51,Insurance,NO
+148,15754105,Mark Torres,650,France,$120K +,Male,1/1/1951,Married,106967.18,Blue,24495.03,"Rewards, OnlineBanking, Cashback",NO
+149,15703264,Edward Hood,735,France,Unknown,Male,1/1/1954,Married,120681.63,Blue,74836.34,"OnlineBanking, Rewards, Insurance",NO
+150,15794413,Michael Mendoza,416,France,$80K - $120K,Male,1/1/1957,Married,0,Blue,878.87,"OnlineBanking, TravelBenefits",NO
+151,15650237,Michael Keller,754,Spain,$80K - $120K,Female,1/1/1964,Single,0,Blue,89520.75,Insurance,NO
+152,15759618,Lauren Hart,535,France,Unknown,Female,1/1/1977,Married,0,Blue,149892.79,"TravelBenefits, Insurance",YES
+153,15811589,Peter Lawrence,716,Spain,$40K - $60K,Male,1/1/1977,Single,0,Silver,180800.42,"Rewards, Insurance",NO
+154,15689044,Kelli Hamilton DDS,539,France,$60K - $80K,Male,1/1/1978,Single,127609.59,Blue,98646.22,"Rewards, Cashback",NO
+155,15709368,Erin Elliott,614,France,Less than $40K,Female,1/1/1955,Married,0,Blue,109041.53,"MobileApp, Cashback, OnlineBanking",NO
+156,15679145,Melissa Long,706,Spain,$40K - $60K,Male,1/1/1966,Married,0,Blue,17941.16,"MobileApp, TravelBenefits, OnlineBanking",YES
+157,15655007,Stacey Munoz,758,France,$40K - $60K,Female,1/1/1988,Single,0,Blue,82996.47,"TravelBenefits, OnlineBanking, MobileApp",NO
+158,15623595,Jessica Peterson,586,Spain,$120K +,Female,1/1/1982,Married,0,Blue,92067.35,"Insurance, MobileApp",NO
+159,15589975,Craig Branch,646,France,Unknown,Female,1/1/1968,Married,97259.25,Silver,104719.66,"Cashback, Rewards",NO
+160,15804017,Richard Young,631,Germany,Less than $40K,Female,1/1/1982,Divorced,123246.7,Blue,112687.57,Rewards,NO
+161,15692132,Ryan Nelson,717,Spain,$80K - $120K,Female,1/1/1975,Married,101060.25,Blue,84699.56,"Cashback, TravelBenefits",NO
+162,15641122,Tracy Willis,684,France,Unknown,Male,1/1/1952,Single,0,Blue,83473.82,MobileApp,NO
+163,15630910,Michelle Rice,800,France,$60K - $80K,Female,1/1/1951,Married,108007.36,Blue,47125.11,"MobileApp, Rewards",NO
+164,15680772,Edward Boyd,721,Spain,Less than $40K,Female,1/1/1948,Divorced,0,Blue,106977.8,OnlineBanking,NO
+165,15658929,Christopher Merritt,683,Spain,$40K - $60K,Male,1/1/1971,Married,133702.89,Blue,55582.54,"OnlineBanking, Cashback",YES
+166,15585388,Gerald Petty,660,Germany,Less than $40K,Male,1/1/1967,Married,125189.75,Blue,139874.43,"Cashback, MobileApp, OnlineBanking",NO
+167,15724623,Lisa Moore,704,Germany,Less than $40K,Female,1/1/1979,Married,113034.22,Blue,162503.48,"OnlineBanking, MobileApp",YES
+168,15588537,Roy Moore,615,Spain,Less than $40K,Female,1/1/1958,Married,109013.23,Blue,196499.96,TravelBenefits,NO
+169,15574692,Stephen Brown,667,Spain,$80K - $120K,Female,1/1/1970,Single,0,Blue,40721.24,Cashback,YES
+170,15611325,Elizabeth Carrillo,682,Germany,$60K - $80K,Male,1/1/1954,Married,57929.81,Blue,53134.3,Rewards,NO
+171,15587562,Sean Deleon,484,France,Unknown,Female,1/1/1973,Divorced,130114.39,Blue,164017.89,OnlineBanking,NO
+172,15613172,Mark Proctor,628,Germany,Less than $40K,Male,1/1/1959,Married,95826.49,Blue,155996.96,"Insurance, TravelBenefits",NO
+173,15651022,Corey Walker,480,Germany,$80K - $120K,,1/1/1975,Married,129608.57,Blue,5472.7,Rewards,YES
+174,15586310,Nicole Ingram,578,France,$80K - $120K,Male,1/1/1952,Married,169462.09,Silver,112187.11,"MobileApp, Rewards, Cashback",NO
+175,15625524,Andrew Myers,512,France,$40K - $60K,Male,1/1/1977,Married,0,Blue,146457.83,"OnlineBanking, TravelBenefits",NO
+176,15755209,Cameron Leonard,484,Spain,$40K - $60K,Female,1/1/1972,Divorced,133868.21,Blue,27286.1,"MobileApp, Insurance",NO
+177,15645248,Crystal Dean,510,France,$80K - $120K,Female,1/1/1976,Married,0,Blue,130553.47,"OnlineBanking, MobileApp, Rewards",NO
+178,15790355,Erika Fuller,606,Germany,Less than $40K,Male,1/1/1976,Married,190479.48,Blue,179351.89,"OnlineBanking, MobileApp",NO
+179,15762615,Tina Miller,597,Spain,$40K - $60K,Female,1/1/1965,Single,101993.12,Silver,94774.12,"Insurance, Cashback",NO
+180,15625426,Kelly Pearson,754,Germany,$40K - $60K,,1/1/1985,Married,161608.81,Blue,8080.85,"Cashback, Insurance, OnlineBanking",YES
+181,15716334,Mathew Nixon,850,Spain,$40K - $60K,Female,1/1/1969,Married,122311.21,Blue,19482.5,OnlineBanking,NO
+182,15789669,Cindy Shaffer,510,France,$80K - $120K,Male,1/1/1973,Married,0,Blue,48071.61,MobileApp,NO
+183,15621075,Gail Daniels,778,Germany,Less than $40K,,1/1/1963,Married,162150.42,Blue,174531.27,"Cashback, OnlineBanking",NO
+184,15810845,Haley Becker,636,France,$60K - $80K,Male,1/1/1987,Married,0,Blue,55470.78,Cashback,NO
+185,15719377,Casey Howard,804,France,$60K - $80K,Female,1/1/1960,Married,0,Blue,8546.87,"Rewards, OnlineBanking",YES
+186,15654506,Jessica Ward,514,France,Unknown,Male,1/1/1970,Single,0,Blue,95857.18,"MobileApp, TravelBenefits",NO
+187,15771977,John Smith,730,France,$80K - $120K,Female,1/1/1957,Single,99010.67,Blue,194945.8,Cashback,NO
+188,15708710,Jane Doe,525,Spain,Less than $40K,Female,1/1/1973,Single,0,Blue,131521.72,"Cashback, Rewards, MobileApp",NO
+189,15726676,David Lee,616,Spain,Less than $40K,Male,1/1/1967,Married,0,Blue,196108.51,"MobileApp, OnlineBanking",NO
+190,15587421,Sarah Johnson,687,Germany,Unknown,Female,1/1/1957,Married,111388.18,Blue,148564.76,"TravelBenefits, MobileApp",NO
+191,15726931,Kim Nguyen,715,,$80K - $120K,Female,1/1/1957,Married,56214.85,Blue,92982.61,"MobileApp, OnlineBanking",YES
+192,15771086,Michael Brown,512,France,$80K - $120K,Female,1/1/1973,Unknown,84327.77,Blue,17675.36,Insurance,NO
+193,15756850,Emily Davis,479,France,Less than $40K,Male,1/1/1972,Married,0,Blue,114996.43,OnlineBanking,NO
+194,,Lucas Santos,601,France,$120K +,Male,1/1/1970,Married,93012.89,Blue,86957.42,"Rewards, TravelBenefits",NO
+195,15679200,Laura Janssen,580,Spain,Less than $40K,Male,1/1/1983,Married,61710.44,Blue,128077.8,"Insurance, Cashback",NO
+196,15594815,Mohammed Ali,807,France,Less than $40K,Male,1/1/1960,Married,174790.15,Blue,600.36,"MobileApp, Rewards, Cashback",NO
+197,15635905,Ana Hernandez,616,Spain,$120K +,Female,1/1/1972,Unknown,0,Blue,43001.46,"TravelBenefits, OnlineBanking, Rewards",NO
+198,15777892,Carlos Garcia,721,Germany,$80K - $120K,,1/1/1951,Married,107720.64,Blue,158591.12,"OnlineBanking, MobileApp, Cashback",NO
+199,15656176,Lily Wong,501,France,Less than $40K,,1/1/1973,Married,0,Blue,47847.19,"Rewards, TravelBenefits",NO
+200,15811127,Hans Mueller,521,France,$60K - $80K,Male,1/1/1987,Married,96423.84,Blue,10488.44,"TravelBenefits, Rewards, OnlineBanking",NO
